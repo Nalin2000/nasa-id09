@@ -25,7 +25,7 @@
             <br />
             <h3>
               <a
-                href="https://github.com/nuxt/nuxt.js"
+                href="https://github.com/Nalin2000/nasa-id09.git"
                 target="_blank"
                 rel="noopener noreferrer"
               >
